@@ -1,3 +1,4 @@
 hello git
 second
-thirdfourth - my branch
+third
+fourth - my branch
